@@ -20,7 +20,7 @@ function changetoggler(){
     else{
         document.getElementById("offset").style.display = 'none'
         nav[0].style.position = 'static'
-        canvas[0].style.marginLeft = "-400px"
+        canvas[0].style.marginLeft = "-60vh"
         el[0].style.display = 'block'
         el[1].style.display = 'block'
         el[0].style.transform = 'translateY(0px)'
