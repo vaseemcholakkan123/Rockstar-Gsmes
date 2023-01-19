@@ -250,7 +250,7 @@ footer{
     font-weight: 500;
 }
 .myoffcanvas{
-    margin-left: -400px;
+    margin-left: -60vh;
     position: fixed;
     width: 60vh;
     height: 100vh;
